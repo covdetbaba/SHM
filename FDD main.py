@@ -12,7 +12,7 @@ import matplotlib.animation as animation
 # 1. USER INPUTS
 # ================================================================
 # This section defines the key parameters for your analysis.
-csv_file = r"C:\Users\12345\OneDrive - Louisiana State University\Tests on Pedestrian Bridges\January 19 - Vibration Test on Pedestrian Bridge - 5th Day\January 19 - Vibration Test on Pedestrian Bridge - 5th Day - 1st Bridge.csv"
+csv_file = r".csv"
 
 fs = 1000              # Sampling rate (Hz): How many data points per second.
 nperseg = 8192        # Welch segment length: Controls frequency resolution. Higher = finer detail. 
